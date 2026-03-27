@@ -3,7 +3,7 @@
 
 Program to implement the linear regression using gradient descent.
 Developed by: Muthu Kumaran M
-RegisterNumber: 212223240101
+
 
 ```
 
